@@ -1,6 +1,6 @@
 describe('Arrays', function() {
   beforeEach(function() {
-    window.kittensNew = ['Milo', 'Otis', 'Garfield'];
+    window.kittens = ['Milo', 'Otis', 'Garfield'];
   });
 
   describe('kittens', function() {
